@@ -1,0 +1,11 @@
+{
+  "name": "survey_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "author": "leo099",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "winston": "^3.2.1"
+  }
+}

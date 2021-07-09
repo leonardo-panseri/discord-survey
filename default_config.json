@@ -1,0 +1,19 @@
+{
+  "token": "",
+  "prefix": "!survey",
+  "reaction": "✅",
+  "timeout": 3600000,
+  "messages": {
+    "timeout": "Your survey has timed out, please start a new one from the server",
+    "survey_complete": "Your survey has been successfully submitted",
+    "command_syntax_error": "Invalid command syntax, the correct syntax is %s",
+    "survey_create_success": "The survey has been successfully created, please modify it in %s and then issue %s",
+    "reload_success": "Data and configuration for this server reloaded",
+    "set_channel_success": "Successfully set the current channel as the %s survey response channel for the server",
+    "set_message_success": "Successfully set the message as the %s survey message",
+    "set_message_invalid_message": "A message with this ID does not exist in this channel, please use a valid ID",
+    "set_message_failure" : "An error occurred while setting the message",
+    "set_message_reaction_failure": "Can't add the reaction to this message",
+    "invalid_survey": "The survey %s does not exists, please create it first"
+  }
+}
